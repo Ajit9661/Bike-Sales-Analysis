@@ -1,10 +1,10 @@
 # Bike-Sales-Analysis
 
-#Overview
+Overview
 
 This dashboard provides a comprehensive analysis of the Indian bike market, focusing on pricing trends, fuel type distribution, resale dynamics, brand performance, and regional sales. It is designed to support vendor onboarding, pricing strategy, and market benchmarking for delivery platforms like Blinkit and Porter.
 
-🎯 #Objectives
+🎯 Objectives
 
 - Benchmark original vs resale prices across major brands
 - Analyze fuel type adoption (Petrol, Electric, Hybrid)
@@ -12,7 +12,7 @@ This dashboard provides a comprehensive analysis of the Indian bike market, focu
 - Understand city-tier pricing dynamics
 - Track regional sales trends across Indian state
 
-📈 #Visualizations Included
+📈 Visualizations Included
 
 - Average Bike Price by Brand – Compare pricing across Bajaj, Hero, Honda, etc.
 - Fuel Type Distribution – Pie chart showing Petrol (63%), Electric (12%), Hybrid (25%)
@@ -23,19 +23,19 @@ This dashboard provides a comprehensive analysis of the Indian bike market, focu
 - Bike Sales by States – Regional performance across India
 - Top 10 Models by Price – Line chart of premium models
 
-🧰 #Filters Available
+🧰 Filters Available
 
 - Dealer Type: Dealer / Individual
 - Brand: Bajaj, Hero, Honda, Kawasaki, Royal Enfield, Suzuki, Yamaha
 - Registration Year: 2016–2021
 
-📦 #Data Sources
+📦 Data Sources
 
 - Aggregated sales and pricing data from verified dealers and individual sellers
 - Manufacturer production records
 - Regional registration and resale data
 
-🛠️ #Usage Instructions
+🛠️ Usage Instructions
 
 - Use filters on the left to narrow down by brand, dealer type, or year.
 - Hover over charts for detailed tooltips.
@@ -49,7 +49,7 @@ This dashboard provides a comprehensive analysis of the Indian bike market, focu
 - Brand-specific pricing strategy
 - Fuel type adoption analysis for future fleet planning
 
-📞 #Contact
+📞 Contact
 
 For business inquiries, data validation, or dashboard customization: Ajit Kumar
 Founder & Analyst
